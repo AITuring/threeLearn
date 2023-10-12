@@ -886,6 +886,11 @@
   "resolved" "https://registry.npmjs.org/csstype/-/csstype-3.1.2.tgz"
   "version" "3.1.2"
 
+"dat.gui@^0.7.9":
+  "integrity" "sha512-sCNc1OHobc+Erc1HqiswYgHdVNpSJUlk/Hz8vzOCsER7rl+oF/4+v8GXFUyCgtXpoCX6+bnmg07DedLvBLwYKQ=="
+  "resolved" "https://mirrors.cloud.tencent.com/npm/dat.gui/-/dat.gui-0.7.9.tgz"
+  "version" "0.7.9"
+
 "debounce@^1.2.1":
   "integrity" "sha512-XRRe6Glud4rd/ZGQfiV1ruXSfbvfJedlV9Y6zOlP+2K04vBYiJEte6stfFkCP03aMnY5tsipamumUjL14fofug=="
   "resolved" "https://mirrors.cloud.tencent.com/npm/debounce/-/debounce-1.2.1.tgz"

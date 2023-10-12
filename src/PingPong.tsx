@@ -1,4 +1,3 @@
-import ReactDOM from 'react-dom/client';
 import { Canvas, useFrame, useLoader} from '@react-three/fiber';
 import { Perf } from 'r3f-perf';
 import { Physics, useBox, usePlane, useSphere } from '@react-three/cannon';

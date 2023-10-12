@@ -5,6 +5,8 @@ import App from './App.tsx'
 import Start from './Start.tsx'
 import PingPong from './PingPong.tsx'
 import Planet from './Planet.tsx'
+import Line from './Line.tsx'
+import Sprite from './Sprite.tsx'
 import './index.css'
 
 const router = createBrowserRouter([
@@ -23,6 +25,14 @@ const router = createBrowserRouter([
   {
     path: '/planet',
     element: <Planet />
+  },
+  {
+    path: '/line',
+    element: <Line />
+  },
+  {
+    path: '/sprite',
+    element: <Sprite />
   }
 ])
 

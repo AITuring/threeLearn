@@ -6,9 +6,8 @@ Source: https://sketchfab.com/3d-models/t-wing-star-wars-inspired-interceptor-fr
 Title: T-WING Star Wars inspired interceptor - FREE
 */
 
-import React, { useRef } from "react";
+import { useRef } from "react";
 import { useGLTF } from "@react-three/drei";
-import { useFrame } from "@react-three/fiber";
 
 export function Model(props) {
   const { nodes, materials } = useGLTF(
